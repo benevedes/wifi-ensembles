@@ -15,7 +15,7 @@ num_val_samples = num_samples - num_train_samples
 
 train_batch_size = 5000
 val_batch_size = 1*train_batch_size
-num_subnets_arr = [2, 4, 8, 16]
+num_subnets_arr = [2, 4, 8, 16, 32]
 
 num_runs = 300
 num_trainings = 10
