@@ -1,5 +1,5 @@
 # wifi-ensembles
-Frequentist uncertainties for DRE with parameterized ensembles, based on https://arxiv.org/abs/2406.xxxxx.
+Frequentist uncertainties for DRE with parameterized ensembles, based on https://arxiv.org/abs/2406.00113.
 
 This repository is a work in progress; currently it only contains the code to reproduce the results in the paper, contained in the experiments directory. In the future, it will also contain a step-by-step tutorial of how to implement $w_i f_i$ ensembles.
 
